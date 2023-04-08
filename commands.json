@@ -15,6 +15,13 @@
 	"clear A8",
 	"clear C8",
 	"clear D7",
-	"clear E7"
+	"clear E7",
+	"clear F6",
+	"clear F7",
+	"clear F8",
+	"clear E8",
+	"clear C8",
+	"clear B8",
+	"clear A7"
   ]
 }
